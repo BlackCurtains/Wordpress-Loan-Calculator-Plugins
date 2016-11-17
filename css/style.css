@@ -1,0 +1,41 @@
+.second-form-group{
+	margin-top: 60px;
+}
+.first-form-group{
+	margin: 18px;
+	padding: 32px 18px;
+	background: #748271;
+	color: #fff;
+	border-radius: 5px;
+}
+.loan-field, .days-field{
+	padding: 12px 8;
+}
+
+.first-form-group .loan-input{
+	padding: 4px;
+	width: 100%;
+}
+.loan-msg{
+	background: #576756;
+	padding: 8px;
+	font-size: 15px;
+	border-radius: 5px;
+}
+.loan-btn{
+	border: 3px;
+	padding: 6px;
+	color: #fff;
+	width: 80px;
+	background: #ec971f;
+	margin-top: 8px;
+}
+.loan-btn:hover{
+	background: #ec9710;
+}
+.loan-bottom{
+	margin-top: 30px;
+}
+.second-form-group .loan-inline-form{
+	margin-bottom: 16px;
+}
